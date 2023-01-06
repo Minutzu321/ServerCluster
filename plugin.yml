@@ -1,0 +1,7 @@
+name: ClusterPlugin
+main: me.minutz.dream.DMaine
+version: 1.0.4
+author: Mina
+commands:
+  cw:
+       description: ClusterPlugin custom command
